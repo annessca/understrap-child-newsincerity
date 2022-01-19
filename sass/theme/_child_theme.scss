@@ -1,0 +1,125 @@
+.hero-v3-section {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 24px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    border-top: 2px solid #cc33ff;
+    background-color: #cc33ff;
+    transition: opacity .2s;
+    color: #fff;
+}
+
+.div-block-6 {
+    z-index: 2;
+    display: flex;
+    width: auto;
+    max-width: 1500px;
+    margin-top: 0;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    object-fit: fill;
+}
+
+.mustache {
+    margin-bottom: 4px;
+    margin-top: 30px;
+    padding-bottom: 0;
+    opacity: .8;
+    color: #fff;
+    font-size: 1em;
+    font-family: LustScript;
+    line-height: 1.9em;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: .3em;
+    text-transform: uppercase;
+}
+
+.hero-h1 {
+    margin-bottom: 0;
+    color: #ffffff;
+    font-size: 5vw;
+    font-family: Proxima_regular;
+    font-weight: 800;
+    line-height: 1.5em;
+    background-clip: border-box;
+    -webkit-text-fill-color: inherit;
+    object-fit: fill;
+}
+
+.section-5 {
+    padding: 24px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-block-57 {
+    width: 100%;
+    display: flex;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta-intro {
+    width: 75%;
+}
+
+.cta-intro p {
+    margin-top: 2px;
+    margin-bottom: 28px;
+    line-height: 1.5em;
+    font-weight: 500;
+    font-family: Poppins,sans-serif;
+}
+
+@media screen and (max-width:800px){
+    .hero-h1 {
+        font-size: 6vw;
+    }
+    .quote-text .white {
+        font-weight: 600;
+    }
+    .mustache {
+        font-size: .8em;
+        letter-spacing: .1em;
+    }
+
+    .cta-intro {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width:500px){
+    .hero-h1 {
+        font-size: 8vw;
+    }
+    .quote-text .white {
+        font-size: 1.5em;
+    }
+    .mustache {
+        font-size: .6em;
+        letter-spacing: .1em;
+    }
+
+    .cta-intro {
+        width: 90%;
+    }
+    .div-block-57 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}

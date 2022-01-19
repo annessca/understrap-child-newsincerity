@@ -1,0 +1,56 @@
+[18-Sep-2017 23:06:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[23-Sep-2017 08:45:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[27-Sep-2017 01:09:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[28-Sep-2017 03:24:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[09-Oct-2017 03:10:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[11-Oct-2017 04:29:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[26-Oct-2017 05:28:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[05-Jan-2018 04:34:07 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[05-Jan-2018 04:34:07 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[08-Jan-2018 13:56:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[08-Jan-2018 13:56:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[09-Jan-2018 01:22:25 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[09-Jan-2018 01:22:25 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[15-Mar-2018 17:33:03 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[15-Mar-2018 17:33:03 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[16-Mar-2018 15:25:25 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[16-Mar-2018 15:25:26 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[18-Mar-2018 07:39:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[18-Mar-2018 07:39:22 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[19-Mar-2018 06:31:51 America/Denver] PHP Fatal error:  Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[19-Mar-2018 06:31:51 America/Denver] PHP Fatal error:  Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[19-Mar-2018 20:32:05 America/Denver] PHP Fatal error:  Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[19-Mar-2018 20:32:05 America/Denver] PHP Fatal error:  Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[20-Mar-2018 06:30:38 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[20-Mar-2018 06:30:38 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[21-Mar-2018 00:17:29 America/Denver] PHP Fatal error:  Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[21-Mar-2018 00:17:29 America/Denver] PHP Fatal error:  Call to undefined function get_theme_mod() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/header.php on line 37
+[07-Apr-2018 23:43:57 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[07-Apr-2018 23:43:57 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
+[10-Apr-2018 07:40:15 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[10-Apr-2018 07:40:15 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/archive.php on line 10
+[07-May-2018 08:37:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/newsince/public_html/wp-content/themes/understrap-child-master/404.php on line 8
